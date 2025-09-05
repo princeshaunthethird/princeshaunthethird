@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=🚀%20Shaun%20Dias%20%7C%20AI%20%7C%20IoT%20%7C%20Robotics%20%7C%20ML%20⚡&fontSize=40&fontAlign=50&fontAlignY=40&animation=twinkling&desc=Hardware%20%2B%20Software%20Innovator%20%7C%20Cloud%20Explorer%20☁️&descAlignY=65&descAlign=50"/>
 </p>
-
 <!-- 🌟 Scrolling Skills Marquee -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&color=00CFFF&width=900&lines=🤖+Building+Robots+and+IoT+Devices;☁️+Exploring+AWS+Cloud+for+AI;🖥️+Machine+Learning+%26+Deep+Learning+Enthusiast;⚡+Mixing+Hardware+%2B+Software+Magic;🚀+On+a+Journey+to+Google" alt="Scrolling Banner" />
