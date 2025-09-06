@@ -15,7 +15,6 @@
 </h2>
 
 ---
-
 ### 🌟 About Me  
 <p align="center">
 <table>
